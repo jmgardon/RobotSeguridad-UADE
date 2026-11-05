@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+
+nc: 16
+names: ['DelantalMedico', 'barbijoIndustrial', 'barbijoMedico', 'chalecoSeguridad', 'cofiaMedico', 'guantesIndustriales', 'guantesMedicos', 'noBarbijo', 'noBarbijoNoProteccionAudictiva', 'noChalecoSeguridad', 'noCofia', 'noCofianoBarbijo', 'noDelantalMedico', 'noGuantes', 'noProteccionAuditiva', 'proteccionAuditiva']
+
+roboflow:
+  workspace: juan-manuel-gardon
+  project: epp-identificador-m0rbu
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/juan-manuel-gardon/epp-identificador-m0rbu/dataset/1

@@ -1,0 +1,169 @@
+fecha_hora,modo,resultado,elementos_detectados,infracciones_detectadas
+2026-11-05 15:09:08,AMBOS,APROBADO,guantesMedicos (0.92),ninguna
+2026-11-05 15:09:15,AMBOS,APROBADO,guantesMedicos (0.92),ninguna
+2026-11-05 15:09:18,AMBOS,RECHAZADO,guantesMedicos (0.92),noDelantalMedico (0.61)
+2026-11-05 15:09:26,INDUSTRIAL,APROBADO,proteccionAuditiva (0.73),ninguna
+2026-11-05 15:09:32,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.67)
+2026-11-05 15:09:38,INDUSTRIAL,APROBADO,proteccionAuditiva (0.67),ninguna
+2026-11-05 15:09:52,INDUSTRIAL,APROBADO,proteccionAuditiva (0.78),ninguna
+2026-11-05 15:09:58,INDUSTRIAL,APROBADO,proteccionAuditiva (0.68),ninguna
+2026-11-05 15:10:02,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.69)
+2026-11-05 15:10:13,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.74)
+2026-11-05 15:10:16,INDUSTRIAL,APROBADO,proteccionAuditiva (0.72),ninguna
+2026-11-05 15:10:20,INDUSTRIAL,RECHAZADO,proteccionAuditiva (0.74),noChalecoSeguridad (0.65)
+2026-11-05 15:10:26,INDUSTRIAL,APROBADO,proteccionAuditiva (0.6),ninguna
+2026-11-05 15:10:32,INDUSTRIAL,APROBADO,proteccionAuditiva (0.67),ninguna
+2026-11-05 15:10:45,INDUSTRIAL,APROBADO,proteccionAuditiva (0.63),ninguna
+2026-11-05 15:10:48,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.68)
+2026-11-05 15:10:54,INDUSTRIAL,RECHAZADO,ninguno,noProteccionAuditiva (0.66)
+2026-11-05 15:11:00,INDUSTRIAL,RECHAZADO,ninguno,noProteccionAuditiva (0.74)
+2026-11-05 15:11:06,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.62)
+2026-11-05 15:11:12,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.84)
+2026-11-05 15:11:24,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.64)
+2026-11-05 15:11:30,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.83)
+2026-11-05 15:11:36,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.69); noBarbijo (0.65)
+2026-11-05 15:11:42,INDUSTRIAL,RECHAZADO,guantesIndustriales (0.63),noBarbijo (0.87)
+2026-11-05 15:11:48,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.7)
+2026-11-05 15:11:54,INDUSTRIAL,RECHAZADO,ninguno,noChalecoSeguridad (0.8); noBarbijo (0.75)
+2026-11-05 15:12:00,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.84)
+2026-11-05 15:12:06,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.83)
+2026-11-05 15:12:15,INDUSTRIAL,RECHAZADO,ninguno,noProteccionAuditiva (0.66)
+2026-11-05 15:12:21,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.64)
+2026-11-05 15:12:27,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.73)
+2026-11-05 15:12:33,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.87)
+2026-11-05 15:12:39,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.85)
+2026-11-05 15:12:45,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.69)
+2026-11-05 15:12:48,INDUSTRIAL,APROBADO,chalecoSeguridad (0.77); guantesIndustriales (0.73),ninguna
+2026-11-05 15:12:52,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.93),noBarbijo (0.63)
+2026-11-05 15:12:58,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.64),noBarbijo (0.75); noProteccionAuditiva (0.65)
+2026-11-05 15:13:04,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.84); proteccionAuditiva (0.71),noBarbijo (0.69)
+2026-11-05 15:13:07,INDUSTRIAL,APROBADO,chalecoSeguridad (0.79),ninguna
+2026-11-05 15:13:12,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.85),noGuantes (0.66)
+2026-11-05 15:13:15,INDUSTRIAL,APROBADO,chalecoSeguridad (0.83),ninguna
+2026-11-05 15:13:21,INDUSTRIAL,RECHAZADO,barbijoIndustrial (0.8); chalecoSeguridad (0.84),noProteccionAuditiva (0.78)
+2026-11-05 15:13:27,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.87); barbijoIndustrial (0.83),noProteccionAuditiva (0.7)
+2026-11-05 15:13:30,INDUSTRIAL,APROBADO,chalecoSeguridad (0.87); barbijoIndustrial (0.71),ninguna
+2026-11-05 15:13:36,INDUSTRIAL,RECHAZADO,barbijoIndustrial (0.79); chalecoSeguridad (0.8); proteccionAuditiva (0.87),noGuantes (0.61)
+2026-11-05 15:13:39,INDUSTRIAL,APROBADO,chalecoSeguridad (0.83); barbijoIndustrial (0.76),ninguna
+2026-11-05 15:13:44,INDUSTRIAL,RECHAZADO,guantesIndustriales (0.81); chalecoSeguridad (0.81),noProteccionAuditiva (0.66)
+2026-11-05 15:13:47,INDUSTRIAL,APROBADO,chalecoSeguridad (0.78); barbijoIndustrial (0.64),ninguna
+2026-11-05 15:13:50,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.87); barbijoIndustrial (0.73),noProteccionAuditiva (0.76)
+2026-11-05 15:13:53,INDUSTRIAL,APROBADO,chalecoSeguridad (0.74); barbijoIndustrial (0.7),ninguna
+2026-11-05 15:13:56,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.74),noBarbijo (0.72); noProteccionAuditiva (0.83)
+2026-11-05 15:14:02,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.62); noProteccionAuditiva (0.63)
+2026-11-05 15:14:08,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.81),noProteccionAuditiva (0.83); noBarbijo (0.78)
+2026-11-05 15:14:12,INDUSTRIAL,APROBADO,chalecoSeguridad (0.8),ninguna
+2026-11-05 15:14:16,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.94),noGuantes (0.64); noBarbijo (0.68); noProteccionAuditiva (0.83)
+2026-11-05 15:14:22,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.89); guantesIndustriales (0.62),noProteccionAuditiva (0.86); noBarbijo (0.61)
+2026-11-05 15:14:28,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.65); noGuantes (0.74); noProteccionAuditiva (0.75)
+2026-11-05 15:14:34,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.77),noProteccionAuditiva (0.79); noGuantes (0.74)
+2026-11-05 15:14:40,INDUSTRIAL,RECHAZADO,guantesIndustriales (0.84); chalecoSeguridad (0.72),noProteccionAuditiva (0.68); noBarbijo (0.58)
+2026-11-05 15:14:46,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.78),noGuantes (0.73); noProteccionAuditiva (0.66); noBarbijo (0.58)
+2026-11-05 15:14:52,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.82),noBarbijo (0.62)
+2026-11-05 15:14:55,INDUSTRIAL,APROBADO,guantesIndustriales (0.79); chalecoSeguridad (0.77),ninguna
+2026-11-05 15:14:58,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.92),noGuantes (0.68); noBarbijo (0.66)
+2026-11-05 15:15:01,INDUSTRIAL,APROBADO,chalecoSeguridad (0.83),ninguna
+2026-11-05 15:15:04,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.89),noBarbijo (0.67)
+2026-11-05 15:15:07,INDUSTRIAL,APROBADO,chalecoSeguridad (0.89),ninguna
+2026-11-05 15:15:10,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.84),noGuantes (0.66); noBarbijo (0.69)
+2026-11-05 15:15:16,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.81),noProteccionAuditiva (0.7); noBarbijo (0.63)
+2026-11-05 15:15:20,INDUSTRIAL,APROBADO,chalecoSeguridad (0.82),ninguna
+2026-11-05 15:15:23,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.79); guantesIndustriales (0.71),noGuantes (0.69); noBarbijo (0.65)
+2026-11-05 15:15:29,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.86),noBarbijo (0.63)
+2026-11-05 15:15:36,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.69),noBarbijo (0.64)
+2026-11-05 15:15:41,INDUSTRIAL,APROBADO,chalecoSeguridad (0.85),ninguna
+2026-11-05 15:15:44,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.85); guantesIndustriales (0.6),noBarbijo (0.84); noGuantes (0.71); noProteccionAuditiva (0.66)
+2026-11-05 15:15:50,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.8)
+2026-11-05 15:15:56,INDUSTRIAL,RECHAZADO,ninguno,noProteccionAuditiva (0.66)
+2026-11-05 15:16:03,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.65)
+2026-11-05 15:16:12,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.83)
+2026-11-05 15:16:18,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.83)
+2026-11-05 15:16:22,MEDICO,APROBADO,DelantalMedico (0.79); guantesMedicos (0.83),ninguna
+2026-11-05 15:16:25,MEDICO,RECHAZADO,DelantalMedico (0.9),noBarbijo (0.77)
+2026-11-05 15:16:28,MEDICO,APROBADO,DelantalMedico (0.94),ninguna
+2026-11-05 15:16:31,MEDICO,RECHAZADO,ninguno,noBarbijo (0.89)
+2026-11-05 15:16:37,MEDICO,RECHAZADO,DelantalMedico (0.92),noBarbijo (0.7)
+2026-11-05 15:16:40,MEDICO,APROBADO,DelantalMedico (0.88),ninguna
+2026-11-05 15:16:43,MEDICO,RECHAZADO,DelantalMedico (0.9),noBarbijo (0.89)
+2026-11-05 15:16:46,MEDICO,APROBADO,DelantalMedico (0.92); cofiaMedico (0.82),ninguna
+2026-11-05 15:16:52,MEDICO,APROBADO,DelantalMedico (0.92); barbijoMedico (0.75),ninguna
+2026-11-05 15:16:58,MEDICO,APROBADO,DelantalMedico (0.89); barbijoMedico (0.76),ninguna
+2026-11-05 15:17:04,MEDICO,APROBADO,DelantalMedico (0.83); cofiaMedico (0.63),ninguna
+2026-11-05 15:17:10,MEDICO,APROBADO,DelantalMedico (0.94); barbijoMedico (0.92); guantesMedicos (0.8),ninguna
+2026-11-05 15:17:16,MEDICO,APROBADO,DelantalMedico (0.91); guantesMedicos (0.76); barbijoMedico (0.71),ninguna
+2026-11-05 15:17:22,MEDICO,APROBADO,DelantalMedico (0.94); barbijoMedico (0.92); cofiaMedico (0.71); guantesMedicos (0.75),ninguna
+2026-11-05 15:17:28,MEDICO,APROBADO,DelantalMedico (0.92); guantesMedicos (0.78),ninguna
+2026-11-05 15:17:34,MEDICO,APROBADO,DelantalMedico (0.92); barbijoMedico (0.73); guantesMedicos (0.78); cofiaMedico (0.73),ninguna
+2026-11-05 15:17:40,MEDICO,APROBADO,guantesMedicos (0.75); DelantalMedico (0.83); cofiaMedico (0.86),ninguna
+2026-11-05 15:17:46,MEDICO,APROBADO,DelantalMedico (0.92); cofiaMedico (0.82); barbijoMedico (0.81); guantesMedicos (0.77),ninguna
+2026-11-05 15:17:53,MEDICO,APROBADO,DelantalMedico (0.95); barbijoMedico (0.69); cofiaMedico (0.72),ninguna
+2026-11-05 15:17:59,MEDICO,APROBADO,guantesMedicos (0.94); DelantalMedico (0.96); cofiaMedico (0.87); barbijoMedico (0.86),ninguna
+2026-11-05 15:18:05,MEDICO,APROBADO,DelantalMedico (0.95); guantesMedicos (0.94); barbijoMedico (0.86); cofiaMedico (0.84),ninguna
+2026-11-05 15:18:11,MEDICO,APROBADO,DelantalMedico (0.96); guantesMedicos (0.93); barbijoMedico (0.86); cofiaMedico (0.81),ninguna
+2026-11-05 15:18:17,MEDICO,APROBADO,DelantalMedico (0.94); guantesMedicos (0.84),ninguna
+2026-11-05 15:18:23,MEDICO,APROBADO,DelantalMedico (0.94); barbijoMedico (0.83); guantesMedicos (0.76),ninguna
+2026-11-05 15:18:29,MEDICO,APROBADO,DelantalMedico (0.91); barbijoMedico (0.77); cofiaMedico (0.78); guantesMedicos (0.72),ninguna
+2026-11-05 15:18:34,MEDICO,RECHAZADO,DelantalMedico (0.89); guantesMedicos (0.77),noBarbijo (0.66)
+2026-11-05 15:18:37,MEDICO,APROBADO,DelantalMedico (0.86); guantesMedicos (0.75),ninguna
+2026-11-05 15:18:43,MEDICO,APROBADO,guantesMedicos (0.67),ninguna
+2026-11-05 15:18:46,MEDICO,RECHAZADO,guantesMedicos (0.67),noBarbijo (0.65)
+2026-11-05 15:18:50,MEDICO,APROBADO,guantesMedicos (0.82),ninguna
+2026-11-05 15:18:56,MEDICO,APROBADO,guantesMedicos (0.67),ninguna
+2026-11-05 15:19:00,MEDICO,RECHAZADO,guantesMedicos (0.73),noBarbijo (0.78)
+2026-11-05 15:19:03,MEDICO,APROBADO,guantesMedicos (0.7),ninguna
+2026-11-05 15:19:07,MEDICO,RECHAZADO,DelantalMedico (0.71),noBarbijo (0.7)
+2026-11-05 15:19:14,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.6)
+2026-11-05 15:19:20,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.6)
+2026-11-05 15:19:45,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.78)
+2026-11-05 15:19:49,INDUSTRIAL,APROBADO,proteccionAuditiva (0.8),ninguna
+2026-11-05 15:19:52,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.67)
+2026-11-05 15:19:55,INDUSTRIAL,APROBADO,proteccionAuditiva (0.71),ninguna
+2026-11-05 15:20:01,INDUSTRIAL,APROBADO,chalecoSeguridad (0.8); guantesIndustriales (0.6),ninguna
+2026-11-05 15:20:05,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.87),noGuantes (0.62)
+2026-11-05 15:20:11,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.79)
+2026-11-05 15:20:14,INDUSTRIAL,APROBADO,chalecoSeguridad (0.77),ninguna
+2026-11-05 15:20:20,INDUSTRIAL,APROBADO,chalecoSeguridad (0.83); proteccionAuditiva (0.71),ninguna
+2026-11-05 15:20:24,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.65),noGuantes (0.65)
+2026-11-05 15:20:27,INDUSTRIAL,APROBADO,chalecoSeguridad (0.89),ninguna
+2026-11-05 15:20:30,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.92); guantesIndustriales (0.86),noBarbijo (0.62); noGuantes (0.65)
+2026-11-05 15:20:34,INDUSTRIAL,APROBADO,chalecoSeguridad (0.86),ninguna
+2026-11-05 15:20:37,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.88); proteccionAuditiva (0.72),noGuantes (0.76)
+2026-11-05 15:20:41,INDUSTRIAL,APROBADO,chalecoSeguridad (0.82),ninguna
+2026-11-05 15:20:44,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.91),noGuantes (0.7)
+2026-11-05 15:20:47,INDUSTRIAL,APROBADO,chalecoSeguridad (0.69),ninguna
+2026-11-05 15:20:52,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.65)
+2026-11-05 15:20:56,INDUSTRIAL,APROBADO,chalecoSeguridad (0.67),ninguna
+2026-11-05 15:21:00,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.61)
+2026-11-05 15:21:04,INDUSTRIAL,APROBADO,chalecoSeguridad (0.66),ninguna
+2026-11-05 15:21:07,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.65)
+2026-11-05 15:21:13,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.66)
+2026-11-05 15:21:17,INDUSTRIAL,APROBADO,chalecoSeguridad (0.59),ninguna
+2026-11-05 15:21:23,INDUSTRIAL,APROBADO,proteccionAuditiva (0.7),ninguna
+2026-11-05 15:21:29,INDUSTRIAL,APROBADO,chalecoSeguridad (0.9); proteccionAuditiva (0.77),ninguna
+2026-11-05 15:21:32,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.76),noProteccionAuditiva (0.88)
+2026-11-05 15:21:37,INDUSTRIAL,APROBADO,proteccionAuditiva (0.77); chalecoSeguridad (0.85),ninguna
+2026-11-05 15:21:40,INDUSTRIAL,RECHAZADO,proteccionAuditiva (0.86); chalecoSeguridad (0.83),noGuantes (0.71)
+2026-11-05 15:21:45,INDUSTRIAL,APROBADO,chalecoSeguridad (0.69),ninguna
+2026-11-05 15:21:48,INDUSTRIAL,RECHAZADO,ninguno,noGuantes (0.61)
+2026-11-05 15:21:51,INDUSTRIAL,APROBADO,chalecoSeguridad (0.72),ninguna
+2026-11-05 15:21:56,INDUSTRIAL,RECHAZADO,guantesIndustriales (0.88); chalecoSeguridad (0.84),noGuantes (0.7)
+2026-11-05 15:21:59,INDUSTRIAL,APROBADO,chalecoSeguridad (0.91); guantesIndustriales (0.87); proteccionAuditiva (0.68); barbijoIndustrial (0.68),ninguna
+2026-11-05 15:22:02,INDUSTRIAL,RECHAZADO,guantesIndustriales (0.85); chalecoSeguridad (0.89); proteccionAuditiva (0.85),noGuantes (0.75)
+2026-11-05 15:22:06,INDUSTRIAL,APROBADO,chalecoSeguridad (0.7),ninguna
+2026-11-05 15:22:10,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.75),noProteccionAuditiva (0.64)
+2026-11-05 15:22:17,INDUSTRIAL,RECHAZADO,ninguno,noProteccionAuditiva (0.73)
+2026-11-05 15:22:23,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.76)
+2026-11-05 15:22:32,INDUSTRIAL,RECHAZADO,ninguno,noBarbijo (0.65)
+2026-11-05 15:42:02,INDUSTRIAL,APROBADO,chalecoSeguridad (0.81); barbijoIndustrial (0.8); guantesIndustriales (0.69),ninguna
+2026-11-05 15:42:18,INDUSTRIAL,APROBADO,chalecoSeguridad (0.89),ninguna
+2026-11-05 15:42:35,INDUSTRIAL,APROBADO,chalecoSeguridad (0.88),ninguna
+2026-11-05 15:42:48,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.89); barbijoIndustrial (0.76); guantesIndustriales (0.79); proteccionAuditiva (0.74),noGuantes (0.58)
+2026-11-05 15:43:04,INDUSTRIAL,APROBADO,chalecoSeguridad (0.9); barbijoIndustrial (0.7); guantesIndustriales (0.73); proteccionAuditiva (0.64),ninguna
+2026-11-05 15:43:21,INDUSTRIAL,APROBADO,guantesIndustriales (0.85); chalecoSeguridad (0.84); barbijoIndustrial (0.66); proteccionAuditiva (0.73),ninguna
+2026-11-05 15:43:37,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.92),noProteccionAuditiva (0.75); noGuantes (0.39)
+2026-11-05 15:45:24,MEDICO,RECHAZADO,DelantalMedico (0.94); guantesMedicos (0.94),noBarbijo (0.78); noCofia (0.65)
+2026-11-05 15:45:41,MEDICO,RECHAZADO,DelantalMedico (0.96); guantesMedicos (0.93); cofiaMedico (0.88),noBarbijo (0.91)
+2026-11-05 15:45:57,MEDICO,APROBADO,DelantalMedico (0.94); guantesMedicos (0.89); cofiaMedico (0.83); barbijoMedico (0.88),ninguna
+2026-11-05 15:47:44,MEDICO,APROBADO,guantesMedicos (0.95); DelantalMedico (0.73); cofiaMedico (0.63),ninguna
+2026-11-05 16:01:58,INDUSTRIAL,RECHAZADO,chalecoSeguridad (0.86),noProteccionAuditiva (0.73); noGuantes (0.44); noBarbijo (0.63)
+2026-11-05 16:03:53,MEDICO,RECHAZADO,cofiaMedico (0.83); DelantalMedico (0.92); guantesMedicos (0.67),noBarbijo (0.83)

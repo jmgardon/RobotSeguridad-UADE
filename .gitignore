@@ -1,0 +1,16 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales del simulador
+.simulador_activo.json
+.pose_actual.json
+
+# Ignorar las imagenes crudas del dataset para que el repo sea liviano al clonar
+# (Se conserva data.yaml y se conservan los modelos entrenados best.pt en train_v2/)
+mi_desarrollo/dataSet/train/
+mi_desarrollo/dataSet/valid/
+mi_desarrollo/dataSet/test/
+mi_desarrollo/dataSet/*.cache
+mi_desarrollo/evidencias/
+
